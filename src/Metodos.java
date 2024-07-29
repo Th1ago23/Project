@@ -29,7 +29,7 @@ public class Metodos {
                 2 - Calcular área do triangulo
                 """);
         int indice = leitura.nextInt();
-    //Fiz uma estrutura if para fazer a comparação e associar os métodos de acordo com o índice
+    //Fiz uma estrutura if para fazer a comparação e associar os métodos
         if (indice == 1){
             System.out.println("Entre com o raio do círculo: ");
             float r = leitura.nextFloat();
